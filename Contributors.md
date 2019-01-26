@@ -25,6 +25,7 @@
 - [George Bowers] (https://github.com/gergeb)
 - [pale](https://github.com/Paleless)
 -[Marcus Snow](https://github.com/Jay-snow)
+-[Jenn King] (https://github.com/jennking)
 - [Jorge Ricardo Soares](https://github.com/Jorgersoares)
 - Rishant Jain
 - [Erudite Monkey](https://github.com/translucent504)
